@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:swift single app/swift single app.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:swift for command/swift for command.xcodeproj">
+   </FileRef>
+</Workspace>
