@@ -7,7 +7,4 @@
    <FileRef
       location = "group:swift single app/swift single app.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:swift for command/swift for command.xcodeproj">
-   </FileRef>
 </Workspace>
