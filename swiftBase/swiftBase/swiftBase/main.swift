@@ -9,3 +9,7 @@ import Foundation
 
 print("Hello, World!")
 
+var x = 11
+var y = 33
+print(x+y)
+
