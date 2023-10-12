@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:swift-base/swift-base.xcodeproj">
+      location = "group:swiftBase/swiftBase.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:swift single app/swift single app.xcodeproj">
